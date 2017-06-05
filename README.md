@@ -1,3 +1,5 @@
+https://travis-ci.org/DQing/jasmine-demo.svg?branch=master
+
 # jasmine-demo
 
 use this demo ,you need
