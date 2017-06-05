@@ -1,4 +1,4 @@
-[test](https://travis-ci.org/DQing/jasmine-demo.svg?branch=master)
+[![Build Status](https://travis-ci.org/DQing/jasmine-demo.svg?branch=master)](https://travis-ci.org/DQing/jasmine-demo.svg?branch=master)
 
 # jasmine-demo
 
